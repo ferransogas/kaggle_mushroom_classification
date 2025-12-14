@@ -1,3 +1,7 @@
+# Participants del grup
+Ferran Sogas Linares - 1679933
+Sergi Muñoz Màrquez - 1633307
+
 # Mushroom Classification
 L'objectiu d'aquest projecte era desenvolupar un model predictiu capaç de classificar bolets en dues categories: comestibles (edible) o verinosos (poisonous), basant-se en les seves característiques físiques (color, forma, olor, etc.). Es va treballar amb el dataset de 8.124 mostres i 23 atributs categòrics de [Kaggle - Mushroom Classification](https://www.kaggle.com/datasets/uciml/mushroom-classification).
 
